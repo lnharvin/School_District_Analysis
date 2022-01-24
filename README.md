@@ -1,8 +1,7 @@
-# School_District_Analysis
-School analysis project using Python, Anaconda and Jupyter Notebook
+# School District Analysis
 
 ## Project Overview
-Here is the list of deliverables for the analysis of the school district: 
+Help a mock school board analyze school district data. Here is the list of requested deliverables: 
 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
@@ -19,5 +18,6 @@ Here is the list of deliverables for the analysis of the school district:
 ## Summary / Results
 
 ## Challenge Overview
+School analysis project using Python, Anaconda and Jupyter Notebook
 
 ## Challenge Summary
