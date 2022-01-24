@@ -16,6 +16,9 @@ Help a mock school board analyze school district data. Here is the list of reque
 ## Resources
 
 ## Summary / Results
+Resources/schools_complete.csv
+
+Resources/students_complete.csv
 
 ## Challenge Overview
 School analysis project using Python, Anaconda and Jupyter Notebook
