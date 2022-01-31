@@ -20,9 +20,13 @@ Resources/students_complete.csv
 
 ## Summary / Results
 ![District Summary](https://github.com/lnharvin/School_District_Analysis/blob/main/images/distrint_summary.png)
+
 ![Schools by size](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_size.png)
+
 ![Top 5 Schools](https://github.com/lnharvin/School_District_Analysis/blob/main/images/top_schools.png)
+
 [Schools by Type](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_type.png)
+
 [Bottom 5 Schools](https://github.com/lnharvin/School_District_Analysis/blob/main/images/bottom_schools.png)
 
 
