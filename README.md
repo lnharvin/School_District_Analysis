@@ -14,6 +14,7 @@ Help a mock school board analyze school district data. Here is the list of reque
 - School performance based on the type of school
 
 ## Resources
+![Schools by size](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_size.png)
 
 ## Summary / Results
 Resources/schools_complete.csv
