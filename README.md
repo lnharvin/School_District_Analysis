@@ -19,6 +19,8 @@ Resources/schools_complete.csv
 Resources/students_complete.csv
 
 ## Summary / Results
+After removing the 9th grade math/reading scores for Thomas High School, the math, reading and overall score increased by more than 30%.
+
 ![District Summary](https://github.com/lnharvin/School_District_Analysis/blob/main/images/distrint_summary.png)
 
 ![Schools by size](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_size.png)
@@ -40,4 +42,4 @@ Resources/students_complete.csv
 School analysis project using Python, Anaconda and Jupyter Notebook
 
 ## Challenge Summary
-This module was a challenge to the end, it was exciting to analyis the school district results into bite size portions of information that would be useful for any board. This module was practical and easy to double check your results. While formatting python code is still a work in progress I enjoyed this and look forward to building on what I've learned so far.  
+This module was a challenge to the end, it was exciting to analyis the school district results into bite size portions of information that would be useful for any board. This module was practical and easy to double check your results. While formatting python code is still a work in progress I enjoyed this and look forward to building on what I've learned so far. 
