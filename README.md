@@ -25,6 +25,10 @@ Resources/students_complete.csv
 
 ![Top 5 Schools](https://github.com/lnharvin/School_District_Analysis/blob/main/images/top_schools.png)
 
+[Math Scores by Grade](https://github.com/lnharvin/School_District_Analysis/blob/main/images/math_scores_by_grade.png)
+
+[Reading Scores by Grade](https://github.com/lnharvin/School_District_Analysis/blob/main/images/reading_scores_by_grade.png)
+
 [Schools by Type](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_type.png)
 
 [Bottom 5 Schools](https://github.com/lnharvin/School_District_Analysis/blob/main/images/bottom_schools.png)
