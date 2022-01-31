@@ -33,6 +33,8 @@ Resources/students_complete.csv
 
 [Bottom 5 Schools](https://github.com/lnharvin/School_District_Analysis/blob/main/images/bottom_schools.png)
 
+[Schools by Spending](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_spending.png)
+
 
 ## Challenge Overview
 School analysis project using Python, Anaconda and Jupyter Notebook
