@@ -14,12 +14,17 @@ Help a mock school board analyze school district data. Here is the list of reque
 - School performance based on the type of school
 
 ## Resources
-![Schools by size](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_size.png)
-
-## Summary / Results
 Resources/schools_complete.csv
 
 Resources/students_complete.csv
+
+## Summary / Results
+![District Summary](https://github.com/lnharvin/School_District_Analysis/blob/main/images/distrint_summary.png)
+![Schools by size](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_size.png)
+![Top 5 Schools](https://github.com/lnharvin/School_District_Analysis/blob/main/images/top_schools.png)
+[Schools by Type](https://github.com/lnharvin/School_District_Analysis/blob/main/images/schools_by_type.png)
+[Bottom 5 Schools](https://github.com/lnharvin/School_District_Analysis/blob/main/images/bottom_schools.png)
+
 
 ## Challenge Overview
 School analysis project using Python, Anaconda and Jupyter Notebook
